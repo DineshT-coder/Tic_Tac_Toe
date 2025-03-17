@@ -4,6 +4,8 @@ Tic Tac Toe is an interactive, responsive, and visually stunning web-based game.
 
 ---
 ## Preview
+https://dinesht-coder.github.io/Tic_Tac_Toe/
+
 
 ## Features
 
